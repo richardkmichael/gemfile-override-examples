@@ -1,0 +1,5 @@
+source :rubygems
+
+# Specify your gem's dependencies in foo.gemspec
+gem 'bar', :path => '/tmp/gem-tests/bar-v2'
+gemspec

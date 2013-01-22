@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bar (0.0.1)
+    foo (0.0.1)
+      bar
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  foo

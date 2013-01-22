@@ -1,0 +1,3 @@
+source :rubygems
+
+gem 'foo', :path => '/tmp/gem-tests/foo'
